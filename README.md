@@ -3,7 +3,7 @@ This is a MATLAB code for the prediction of risk in stocks (loss) on the basis o
 
 Feel free to ask any question.
 
-Regards, 
-Furrukh Nadeem 
-furrukhmfn@gmail.com
+Regards, <br>
+Furrukh Nadeem <br>
+furrukhmfn@gmail.com <br>
 +92-310-6629845
